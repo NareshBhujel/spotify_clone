@@ -1,2 +1,3 @@
 # spotify_clone
-spotify clone made with Html, CSS and JavaScriptr
+
+https://github.com/NareshBhujel/spotify_clone.git/ click here.
