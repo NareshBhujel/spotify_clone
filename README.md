@@ -1,3 +1,3 @@
 # spotify_clone
 
-https://github.com/NareshBhujel/spotify_clone.git/ click here to watch this project.
+https://nareshbhujel.github.io/spotify_clone/ click here to watch this project.
